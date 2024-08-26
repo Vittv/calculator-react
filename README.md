@@ -1,1 +1,2 @@
-# calculator
+# FFC Cert Project - Calculator
+## (React)
