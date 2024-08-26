@@ -1,2 +1,2 @@
-# FFC Cert Project - Calculator
+# FCC Cert Project - Calculator
 ## (React)
