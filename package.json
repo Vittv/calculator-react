@@ -1,6 +1,6 @@
 {
   "homepage": "https://vittv.github.io/calculator",
-  "name": "calculator",
+  "name": "calculator-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
